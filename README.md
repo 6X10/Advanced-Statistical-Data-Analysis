@@ -1,7 +1,7 @@
 # Final Project (Fall 2022)
 
 ### 1. Purpose of Analysis
- The project aimed to create the best Credit Scoring System (CSS) by using Naive Bayes Classifier & Support Vector Machine in  he scikit-learn library for Python.
+ The project aimed to create the best Credit Evaluation Model by using Naive Bayes Classifier & Support Vector Machine in  he scikit-learn library for Python.
 
 ### 2. Process of Analysis
    * Analysis Tools 
